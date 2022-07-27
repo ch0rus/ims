@@ -6,7 +6,7 @@
     android:sharedUserId="android.uid.system">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" 
-                     tools:ignore="ProtectedPermissions" >
+                     tools:ignore="ProtectedPermissions" />
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" 
                      tools:ignore="ProtectedPermissions" />
